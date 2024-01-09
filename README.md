@@ -75,7 +75,17 @@ No activity tracked
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rupesh9369&theme=dark)](https://git.io/streak-stats)
 </div>
 
-<div align="center" >
+<div align="center" > 
+
+<h2>💰 You can help me by Donating</h4>
+ <p>
+  <a href="https://buymeacoffee.com/Rupeshhh" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-000?&logo=buymeacoffee"/>
+  </a>
+  <a href="https://getupilink.com/upi/9310518341@upi?am=10" target="_blank"><img alt="Paytm" src="https://img.shields.io/badge/-Paytm%20%E2%82%B910-000?&logo=Paytm" /></a>
+  <a href="https://getupilink.com/upi/9310518341@upi?am=10" target="_blank"><img alt="PhonePe" src="https://img.shields.io/badge/-PhonePe ₹10-000?&logo=Phonepe" /></a>
+  <a href="https://getupilink.com/upi/9310518341@upi?am=10" target="_blank"><img alt="Google Pay" src="https://img.shields.io/badge/-Google Pay ₹10-000?&logo=googlepay" /></a>
+</p>
 
 **Code Cycle**
 <br>
@@ -88,3 +98,6 @@ No activity tracked
 
 
 </div>
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=35&duration=2700&pause=500&center=true&vCenter=true&random=true&width=700&lines=Hey+bro;Thanks+For+Watching;My+Profile+😎" alt="Typing SVG">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
