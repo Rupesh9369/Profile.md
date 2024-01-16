@@ -1,4 +1,4 @@
-<img src="https://github.com/Rupesh9369/Rupesh9369/blob/main/4k.gif?raw=true" alt="4k">
+<!--<img src="https://github.com/Rupesh9369/Rupesh9369/blob/main/4k.gif?raw=true" alt="4k">-->
 <div align="center" >
 
 
@@ -101,8 +101,8 @@ No activity tracked
 </div>
 <br>
 
-## Meme By Me
-<img src="https://github.com/Rupesh9369/Rupesh9369/blob/main/167205200-026483f2-8b0f-4101-b76f-96347a246889.png?raw=true" alt="Demo Img">
+<!--## Meme By Me
+<img src="https://github.com/Rupesh9369/Rupesh9369/blob/main/167205200-026483f2-8b0f-4101-b76f-96347a246889.png?raw=true" alt="Demo Img"> -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=35&duration=2700&pause=500&center=true&vCenter=true&random=true&width=700&lines=Hey+bro;Thanks+For+Watching;My+Profile+😎" alt="Typing SVG">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+<!--<img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=35&duration=2700&pause=500&center=true&vCenter=true&random=true&width=700&lines=Hey+bro;Thanks+For+Watching;My+Profile+😎" alt="Typing SVG">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/> -->
