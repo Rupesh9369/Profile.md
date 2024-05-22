@@ -41,10 +41,9 @@ No activity tracked
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rupesh9369&theme=github-dark-dimmed&custom_title=Rupesh9369%20Activity%20Graph&hide_border=true)](https://github.com/rupesh9369/github-readme-activity-graph)
 <div align="center" >
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+ My Github Stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=rupesh9369&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh9369&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/rupesh9369/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=rupesh9369&theme=dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 </div>
 
