@@ -1,9 +1,11 @@
-
 <a name="readme-top"></a>
 ![](https://raw.githubusercontent.com/Rupesh9369/Rupesh9369/refs/heads/main/header_1.png)
 <div align="center">
 
-
+[social-x-link]: https://x.com/rupesh9369
+[social-x-shield]: https://img.shields.io/badge/-%40Rupesh9369-white?labelColor=black&logo=x&logoColor=white&style=flat-square
+[sponsor-link]: https://opencollective.com/Rupesh9369 "Become 🩷 Rupesh9369 Sponsor"
+[sponsor-shield]: https://img.shields.io/badge/-Sponsor%20Rupesh9369-f04f88?logo=opencollective&logoColor=white&style=flat-square
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/be780497-5e39-42f2-9a78-4f940ef8f93d">
   <img height="90" src="https://github.com/user-attachments/assets/be780497-5e39-42f2-9a78-4f940ef8f93d
@@ -18,13 +20,15 @@
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rupeshkumarsharma283@gmail.com)](mailto:rupeshkumarsharma283@gmail.com)
 [![](https://img.shields.io/github/stars/rupesh9369?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=rupesh9369&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/rupesh9369?color=27da6b&logo=Handshake)](https://github.com/rupesh9369?tab=followers)
+[![][social-x-shield]][social-x-link]
+[![][sponsor-shield]][sponsor-link]
+
 
 
 <h3 align="center">A passionate FUll stack developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://opencollective.com/rupesh9369" target="blank"><img align="center" src="https://next-images.opencollective.com/_next/image?url=%2Fstatic%2Fimages%2Foc-logo-watercolor-256.png&w=64&q=75" alt="OpenCollective" height="30" width="40" /></a>
 <a href="https://codepen.io/rupesh9369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rupesh9369" height="30" width="40" /></a>
 <a href="https://dev.to/rupesh9369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rupesh9369" height="30" width="40" /></a>
 <a href="https://twitter.com/rupesh9369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupesh9369" height="30" width="40" /></a>
