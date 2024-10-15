@@ -1,6 +1,8 @@
-<a name="readme-top"></a>
 
+<a name="readme-top"></a>
+![](https://raw.githubusercontent.com/Rupesh9369/Rupesh9369/refs/heads/main/header_1.png)
 <div align="center">
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/be780497-5e39-42f2-9a78-4f940ef8f93d">
@@ -41,11 +43,12 @@
 <a href="https://www.hackerearth.com/@rupesh9369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rupesh9369" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/imrupeshpandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="imrupeshpandit" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/rupeshdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="rupeshdeveloper" height="30" width="40" /></a>
+  
 </p>
 
-</div>
 
 </div>
+
 
 
 
